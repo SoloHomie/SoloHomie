@@ -1,32 +1,31 @@
-# 👋 Hi, I'm SoloHomie
+### Hi there 👋
 
-> 🎮 Game hacking · 🛡️ Anti-detection · 🔧 Reverse Engineering
-
----
-
-### 🚀 BallsHackPro
-
-A game assistant for **球球大作战 (Battle of Balls)** — memory scanning, ball merging, lock tracking, anti-detection bypass.
-
-[![BallsHackPro](https://img.shields.io/badge/Private-Repo-red)](https://github.com/SoloHomie/BallsHackPro)
-
-**Tech Stack:** C++20 · Qt 6 · CMake · Android NDK · Frida · ARM64 Inline Hook
+I'm **SoloHomie**, a passionate developer focused on game security, reverse engineering, and tool development.
 
 ---
 
-### 🛠️ Skills
+#### 🚀 Projects
 
-- **Windows**: Win32 API Hooking, DLL Injection, Low-Level Keyboard/Mouse Hooks
-- **Android**: Native ARM64 Hooking (inline/trampoline), ELF Injection, LD_PRELOAD
-- **Networking**: MITM Proxy, SSL Unpinning, Packet Capture
-- **Tools**: IDA Pro, Ghidra, Frida, Il2CppDumper
+**[BallsHackPro](https://github.com/SoloHomie/BallsHackPro)** — Game assistant for 球球大作战 (Battle of Balls)
 
----
+![C++](https://img.shields.io/badge/C++-20-blue) ![Qt](https://img.shields.io/badge/Qt-6-green) ![Android](https://img.shields.io/badge/Android-NDK-brightgreen) ![ARM64](https://img.shields.io/badge/ARM64-Inline%20Hook-red)
 
-### 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoloHomie&show_icons=true&theme=dark)
+- 🎯 Memory scanning & real-time ball tracking
+- 🎮 Keyboard/mouse low-level hook system
+- 🛡️ Android emulator detection bypass (inline hook)
+- 🔄 P2P multi-client sync
 
 ---
 
-> *"Knowledge is power. Sharing is caring."*
+#### 🛠️ Tech Stack
+
+| Platform | Skills |
+|----------|--------|
+| **Windows** | Win32 API Hooking, DLL Injection, Low-Level Keyboard/Mouse Hooks |
+| **Android** | Native ARM64 Hooking, ELF Injection, LD_PRELOAD, Frida |
+| **Network** | MITM Proxy, SSL Unpinning, Packet Capture |
+| **Tools** | IDA Pro, Ghidra, Frida, Il2CppDumper, Qt |
+
+---
+
+> *Playing the game is fun. Understanding the game is better.*
