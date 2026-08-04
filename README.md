@@ -29,7 +29,7 @@ belong on your machine.
 #### Say hi
 
 - [api.solohomie.top](https://api.solohomie.top)
-- lihezhang63@gmail.com
+- homie.scmu@gmail.com
 
 <br/>
 <div align="center">
