@@ -1,9 +1,7 @@
 <div align="center">
   <br/>
-  <samp>Hey, I'm</samp>
-  <h1>Homie</h1>
-  <samp>a student & developer who loves building things </samp>
-  <samp>that feel good to use.</samp>
+  <h1>Hey, I'm Homie</h1>
+  <i>a student & developer who loves building things that feel good to use.</i>
   <br/>
   <br/>
 </div>
@@ -35,17 +33,9 @@ Currently exploring the space where software meets hardware — the most fun kin
 
 ---
 
-#### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoloHomie&show_icons=true&theme=transparent" alt="GitHub Stats"/>
-</p>
-
----
-
 #### Reach Me
 
-- 📧 [lihezhang63@gmail.com](mailto:lihezhang63@gmail.com)
+- Email: [lihezhang63@gmail.com](mailto:lihezhang63@gmail.com)
 
 <br/>
 <div align="center">
