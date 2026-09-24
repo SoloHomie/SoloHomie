@@ -1,37 +1,53 @@
-a student by day, indie dev by night. I like making things that look clean and feel snappy. if a button does not have a
-satisfying hover effect, I will lose sleep over it.
+<div align="center">
+  <br/>
+  <samp>Hey, I'm</samp>
+  <h1>Homie</h1>
+  <samp>a student & developer who loves building things </samp>
+  <samp>that feel good to use.</samp>
+  <br/>
+  <br/>
+</div>
 
-most of my waking hours go into:
+---
 
-#### BallsHackPro
+#### About Me
 
-my little monster of a project. it is a desktop sidekick for 球球大作战 that does way too many things — memory scanning,
-keyboard and mouse hooking, emulator detection bypass, P2P sync between clients. built it with C++ and Qt 6 because I enjoy
-suffering. actually because I love control over every pixel and every millisecond.
+I believe software should not just work — it should feel good. Smooth animations, clean interfaces, thoughtful interactions. I care about the last 10% — the details that turn a working tool into a pleasant experience.
 
-along the way I picked up a few tricks:
+I work across the whole stack:
 
-- Win32 API whispering to Windows at the lowest level
-- ARM64 inline hooking on Android (the fun kind of pain)
-- reverse engineering Unity IL2CPP games just to peek at their memory
-- making UIs that do not look like they came from 2003
-- breaking my own software so I can fix it again
+- **Desktop apps** — C++ and Qt 6, native Windows integration (acrylic & mica materials, low-level input, tray controls), polished dark-mode UIs
+- **Embedded & hardware** — ESP32 firmware, USB protocols, bringing little physical things to life
+- **Backend & ops** — Go services behind Docker and Nginx, MySQL and Redis on Linux; deployed, monitored, and kept alive
+- **Low-level & reverse engineering** — Win32 API, ARM64 assembly, reading binaries to understand how things really work
 
-#### Stuff I mess with
+Currently exploring the space where software meets hardware — the most fun kind of building.
 
-`C++` `Qt 6` `CMake` `Win32 API` `ARM64 Assembly` `Android NDK` `Frida` `IL2CPP` `Linux` `Python` `Shell` `Git`
+---
 
-#### What is next
+#### Toolbox
 
-diving deeper into Linux internals, getting friendlier with Ghidra, and figuring out how to make desktop apps feel like they
-belong on your machine.
+**Languages** — C++ &emsp; Go &emsp; Python &emsp; Shell
+**Desktop & UI** — Qt 6 &emsp; QML &emsp; CMake &emsp; Win32 API
+**Embedded** — ESP32 &emsp; Firmware &emsp; USB
+**Low-level** — ARM64 Assembly &emsp; Reverse Engineering &emsp; Debugging
+**Backend** — Docker &emsp; Nginx &emsp; MySQL &emsp; Redis &emsp; Linux
 
-#### Say hi
+---
 
-- [api.solohomie.top](https://api.solohomie.top)
-- homie.scmu@gmail.com
+#### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoloHomie&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+</p>
+
+---
+
+#### Reach Me
+
+- 📧 [lihezhang63@gmail.com](mailto:lihezhang63@gmail.com)
 
 <br/>
 <div align="center">
-  <i>"If it is worth building, it is worth making beautiful."</i>
+  <samp><i>"Great tools disappear. You just use them."</i></samp>
 </div>
