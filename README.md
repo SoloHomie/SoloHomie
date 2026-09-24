@@ -35,7 +35,7 @@ Currently exploring the space where software meets hardware — the most fun kin
 
 #### Reach Me
 
-- Email: [lihezhang63@gmail.com](mailto:lihezhang63@gmail.com)
+- Email: [lihezhang63@gmail.com](mailto:homie.scmu@gmail.com)
 
 <br/>
 <div align="center">
