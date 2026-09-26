@@ -72,14 +72,6 @@ I work across the whole stack:
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SoloHomie&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
 ### Random Dev Quote
 
 <p align="center">
