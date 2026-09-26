@@ -1,40 +1,128 @@
 <div align="center">
+
+  <img src="https://github.com/SoloHomie.png" width="96" style="border-radius:50%" alt="avatar" />
+
   <br/>
-  <h1>Hey, I'm Homie</h1>
-  <i>a student & developer who loves building things that feel good to use.</i>
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Homie+%F0%9F%91%8B;A+student+%26+developer;Building+things+that+feel+good+to+use;Software+%C3%97+Hardware" alt="Typing SVG" />
+
+  <br/>
+
+  <a href="https://github.com/SoloHomie"><img src="https://img.shields.io/badge/GitHub-SoloHomie-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="mailto:homie.scmu@gmail.com"><img src="https://img.shields.io/badge/Email-homie.scmu%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SoloHomie&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
+
   <br/>
   <br/>
 </div>
 
 ---
 
-#### About Me
+### 👋 About Me
 
-I believe software should not just work — it should feel good. Smooth animations, clean interfaces, thoughtful interactions. I care about the last 10% — the details that turn a working tool into a pleasant experience.
+I believe software should not just work — it should **feel good**. Smooth animations, clean interfaces, thoughtful interactions. I care about the last 10% — the details that turn a working tool into a pleasant experience.
 
 I work across the whole stack:
 
-- **Desktop apps** — C++ and Qt 6, native Windows integration (acrylic & mica materials, low-level input, tray controls), polished dark-mode UIs
-- **Embedded & hardware** — ESP32 firmware, USB protocols, bringing little physical things to life
-- **Backend & ops** — Go services behind Docker and Nginx, MySQL and Redis on Linux; deployed, monitored, and kept alive
-- **Low-level & reverse engineering** — Win32 API, ARM64 assembly, reading binaries to understand how things really work
+- 🖥️ **Desktop apps** — C++ and Qt 6, native Windows integration (acrylic & mica materials, low-level input, tray controls), polished dark-mode UIs
+- 🔌 **Embedded & hardware** — ESP32 firmware, USB protocols, bringing little physical things to life
+- ☁️ **Backend & ops** — Go services behind Docker and Nginx, MySQL and Redis on Linux; deployed, monitored, and kept alive
+- 🔍 **Low-level & reverse engineering** — Win32 API, ARM64 assembly, reading binaries to understand how things really work
 
-Currently exploring the space where software meets hardware — the most fun kind of building.
-
----
-
-#### Toolbox
-
-**Languages** — C++ &emsp; Go &emsp; Python &emsp; Shell
-**Desktop & UI** — Qt 6 &emsp; QML &emsp; CMake &emsp; Win32 API
-**Embedded** — ESP32 &emsp; Firmware &emsp; USB
-**Low-level** — ARM64 Assembly &emsp; Reverse Engineering &emsp; Debugging
-**Backend** — Docker &emsp; Nginx &emsp; MySQL &emsp; Redis &emsp; Linux
+> 🌱 Currently exploring the space where **software meets hardware** — the most fun kind of building.
 
 ---
 
-#### Reach Me
+### 🧰 Toolbox
 
+<p align="center">
+
+  **Languages**
+
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+  **Desktop & UI**
+
+  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+  ![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+  ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+  ![Win32 API](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+  **Embedded & Hardware**
+
+  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+  ![Firmware](https://img.shields.io/badge/Firmware-FF7A00?style=for-the-badge)
+  ![USB](https://img.shields.io/badge/USB-6C4AB6?style=for-the-badge)
+
+  **Low-level & Reverse Engineering**
+
+  ![ARM64 Assembly](https://img.shields.io/badge/ARM64_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+  ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-343B58?style=for-the-badge)
+  ![Debugging](https://img.shields.io/badge/Debugging-343B58?style=for-the-badge)
+
+  **Backend & Ops**
+
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SoloHomie&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloHomie&layout=compact&hide_title=true&hide_border=true&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SoloHomie&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoloHomie&theme=github-compact&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SoloHomie&theme=darkhub&no-frame=true&margin-w=8&row=1&column=5" alt="Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoloHomie/SoloHomie/output/github-snake-dark.svg" />
+    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/SoloHomie/SoloHomie/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+- GitHub: [@SoloHomie](https://github.com/SoloHomie)
 - Email: [homie.scmu@gmail.com](mailto:homie.scmu@gmail.com)
 
 <br/>
