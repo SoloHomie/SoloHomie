@@ -1,10 +1,5 @@
 <div align="center">
 
-  <img src="https://github.com/SoloHomie.png" width="96" style="border-radius:50%" alt="avatar" />
-
-  <br/>
-  <br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Homie;A+student+%26+developer;Building+things+that+feel+good+to+use;Software+%C3%97+Hardware" alt="Typing SVG" />
 
   <br/>
@@ -81,17 +76,6 @@ I work across the whole stack:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SoloHomie&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
-### Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoloHomie/SoloHomie/output/github-snake-dark.svg" />
-    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/SoloHomie/SoloHomie/output/github-snake.svg" />
-  </picture>
 </p>
 
 ---
