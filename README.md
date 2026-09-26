@@ -11,6 +11,7 @@
 
   <a href="https://github.com/SoloHomie"><img src="https://img.shields.io/badge/GitHub-SoloHomie-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="mailto:homie.scmu@gmail.com"><img src="https://img.shields.io/badge/Email-homie.scmu%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
+  <img src="https://img.shields.io/github/followers/SoloHomie?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=SoloHomie&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
 
   <br/>
@@ -79,24 +80,7 @@ I work across the whole stack:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SoloHomie&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloHomie&layout=compact&hide_title=true&hide_border=true&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=SoloHomie&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoloHomie&theme=github-compact&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" alt="Contribution Activity Graph" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoloHomie&theme=darkhub&no-frame=true&margin-w=8&row=1&column=5" alt="Trophies" />
 </p>
 
 ---
