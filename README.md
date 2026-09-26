@@ -6,8 +6,6 @@
 
   <a href="https://github.com/SoloHomie"><img src="https://img.shields.io/badge/GitHub-SoloHomie-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="mailto:homie.scmu@gmail.com"><img src="https://img.shields.io/badge/Email-homie.scmu%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
-  <img src="https://img.shields.io/github/followers/SoloHomie?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=SoloHomie&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
 
   <br/>
   <br/>
