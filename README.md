@@ -21,7 +21,7 @@ I work across the whole stack:
 
 - **Desktop apps** — C++ and Qt 6, native Windows integration (acrylic & mica materials, low-level input, tray controls), polished dark-mode UIs
 - **Embedded & hardware** — ESP32 firmware, USB protocols, bringing little physical things to life
-- **Backend & ops** — Go services behind Docker and Nginx, MySQL and Redis on Linux; deployed, monitored, and kept alive
+- **Backend & ops** — services behind Docker and Nginx, MySQL and Redis on Linux; deployed, monitored, and kept alive
 - **Low-level & reverse engineering** — Win32 API, ARM64 assembly, reading binaries to understand how things really work
 
 > Currently exploring the space where **software meets hardware** — the most fun kind of building.
