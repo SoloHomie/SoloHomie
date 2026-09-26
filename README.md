@@ -5,7 +5,7 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Homie+%F0%9F%91%8B;A+student+%26+developer;Building+things+that+feel+good+to+use;Software+%C3%97+Hardware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Homie;A+student+%26+developer;Building+things+that+feel+good+to+use;Software+%C3%97+Hardware" alt="Typing SVG" />
 
   <br/>
 
@@ -20,22 +20,22 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I believe software should not just work — it should **feel good**. Smooth animations, clean interfaces, thoughtful interactions. I care about the last 10% — the details that turn a working tool into a pleasant experience.
 
 I work across the whole stack:
 
-- 🖥️ **Desktop apps** — C++ and Qt 6, native Windows integration (acrylic & mica materials, low-level input, tray controls), polished dark-mode UIs
-- 🔌 **Embedded & hardware** — ESP32 firmware, USB protocols, bringing little physical things to life
-- ☁️ **Backend & ops** — Go services behind Docker and Nginx, MySQL and Redis on Linux; deployed, monitored, and kept alive
-- 🔍 **Low-level & reverse engineering** — Win32 API, ARM64 assembly, reading binaries to understand how things really work
+- **Desktop apps** — C++ and Qt 6, native Windows integration (acrylic & mica materials, low-level input, tray controls), polished dark-mode UIs
+- **Embedded & hardware** — ESP32 firmware, USB protocols, bringing little physical things to life
+- **Backend & ops** — Go services behind Docker and Nginx, MySQL and Redis on Linux; deployed, monitored, and kept alive
+- **Low-level & reverse engineering** — Win32 API, ARM64 assembly, reading binaries to understand how things really work
 
-> 🌱 Currently exploring the space where **software meets hardware** — the most fun kind of building.
+> Currently exploring the space where **software meets hardware** — the most fun kind of building.
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 
 <p align="center">
 
@@ -77,7 +77,7 @@ I work across the whole stack:
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SoloHomie&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -85,7 +85,7 @@ I work across the whole stack:
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
@@ -96,7 +96,7 @@ I work across the whole stack:
 
 ---
 
-### 💬 Random Dev Quote
+### Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
@@ -104,7 +104,7 @@ I work across the whole stack:
 
 ---
 
-### 📫 Reach Me
+### Reach Me
 
 - GitHub: [@SoloHomie](https://github.com/SoloHomie)
 - Email: [homie.scmu@gmail.com](mailto:homie.scmu@gmail.com)
