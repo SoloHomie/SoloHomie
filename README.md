@@ -6,7 +6,6 @@
 
   <a href="https://github.com/SoloHomie"><img src="https://img.shields.io/badge/GitHub-SoloHomie-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="mailto:homie.scmu@gmail.com"><img src="https://img.shields.io/badge/Email-homie.scmu%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAL1EtZJk0i2rp9xl7tOz2Z8W_uDVwS9i3PphMP_GbeJevwMQI1FBmuz0xlr0_nWwv"><img src="https://img.shields.io/badge/Douyin-000000?style=flat-square&logo=tiktok&logoColor=white" alt="Douyin" /></a>
   <a href="https://xydh.fun/Homie"><img src="https://img.shields.io/badge/iLinks-xydh.fun-6C4AB6?style=flat-square" alt="iLinks" /></a>
 
   <br/>
