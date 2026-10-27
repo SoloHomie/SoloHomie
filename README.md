@@ -20,8 +20,9 @@ I believe software should not just work — it should **feel good**. Smooth anim
 
 I work across the whole stack:
 
-- **Desktop apps** — C++ and Qt 6, native Windows integration (acrylic & mica materials, low-level input, tray controls), polished dark-mode UIs
-- **Embedded & hardware** — ESP32 firmware, USB protocols, bringing little physical things to life
+- **Desktop apps** — C++ and Qt 6 on Windows: native acrylic & mica materials, low-level input, tray controls, and dark UIs that stay smooth
+- **Modelling & simulation** — Python for numerical models, Monte Carlo, sensitivity and uncertainty analysis, LaTeX for the write-up; ROS and Gazebo when the model has wheels
+- **Embedded & hardware** — ESP32 firmware, USB protocols, bringing small physical devices to life
 - **Backend & ops** — Docker, Nginx, MySQL, Redis on Linux — deployed, monitored, kept alive
 - **Low-level & reverse engineering** — Win32 API, ARM64 assembly, reading binaries to see how things really work
 
